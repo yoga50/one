@@ -14,10 +14,10 @@ description: Be what you wanna be
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: http://img.logonc.com/d/file/logo/20200111/06f98f92b26f3ee06fc83f86b9237121.jpg
+avatar: https://c-ssl.duitang.com/uploads/item/201905/18/20190518085934_smgtf.thumb.700_0.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://c-ssl.duitang.com/uploads/item/201305/09/20130509170910_kCC4Z.thumb.700_0.jpeg
 
 
 # 菜单中的按钮
@@ -32,28 +32,28 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 20
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
-footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<>
-  dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
-  facebook: #https://www.facebook.com/<>
-  flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
-  instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
-  pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
-  stackoverflow: # http://stackoverflow.com/<>
-  tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
-  youtube: # channel/<your_long_string> or user/<user-name>
+#footer-links: 
+ # weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  #behance: # https://www.behance.net/<>
+  #dribbble: # https://dribbble.com/<>
+  #email: 525835111@qq.com 
+  #facebook: #https://www.facebook.com/<>
+  #flickr: #https://www.flickr.com/<>
+  #github: FromEndWorld/loffer #https://github.com/<>
+  #instagram: #https://instagram.com/<>
+  #linkedin: #https://www.linkedin.com/in/<>
+  #pinterest: #https://www.pinterest.com/<>
+  #rss: #随便填点啥RSS就能用了
+  #stackoverflow: # http://stackoverflow.com/<>
+  #tumblr: # https://<username>.tumblr.com
+  #twitter: # https://www.twitter.com/<your_twitter_username> 
+  #youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2019 来自中世界
